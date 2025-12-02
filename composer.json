@@ -8,11 +8,11 @@
   ],
   "authors": [
     {
-        "name": "Voinkov Andrey",
-        "email": "voinkov.com@gmail.com",
-        "homepage": "https://github.com/exzm",
-        "role": "Developer"
-    },
+      "name": "Voinkov Andrey",
+      "email": "voinkov.com@gmail.com",
+      "homepage": "https://github.com/exzm",
+      "role": "Developer"
+    }
   ],
   "type": "yii2-extension",
   "license": "MIT",
