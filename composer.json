@@ -1,9 +1,18 @@
 {
-  "name": "sil-org/yii2-sentry",
+  "name": "exzm/yii2-sentry",
   "description": "Yii2 logger for Sentry",
   "keywords": [
     "sentry",
-    "yii2"
+    "yii2",
+    "php 8.4"
+  ],
+  "authors": [
+    {
+        "name": "Voinkov Andrey",
+        "email": "voinkov.com@gmail.com",
+        "homepage": "https://github.com/exzm",
+        "role": "Developer"
+    },
   ],
   "type": "yii2-extension",
   "license": "MIT",
